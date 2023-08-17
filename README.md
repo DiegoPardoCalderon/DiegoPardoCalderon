@@ -4,7 +4,7 @@
 
 
 
-- 💬actualmente estoy aprendiendo **JavaScript, HTML, Nodejs, CSS, Bootstrap**
+- 💬actualmente estoy aprendiendo **JavaScript, HTML, Nodejs, CSS, Bootstrap, entre otros
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/DiegoPardoCalderon](https://github.com/DiegoPardoCalderon)
 
